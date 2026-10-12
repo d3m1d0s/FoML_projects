@@ -11,3 +11,7 @@ Projekty_Cviko_16_00.csv
 # Jupyter / Python
 .ipynb_checkpoints/
 __pycache__/
+
+# Editor settings and local helper scripts
+.vscode/
+colab.cmd
