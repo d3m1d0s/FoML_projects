@@ -1,0 +1,13 @@
+# Project 2 data (Base.csv is 213 MB, over GitHub's 100 MB file limit)
+project_2/Base.csv/
+project_2/*.zip
+
+# Duplicate archive of the Project 1 data
+*.zip
+
+# Class sign-up sheet (contains other students' names and logins)
+Projekty_Cviko_16_00.csv
+
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
