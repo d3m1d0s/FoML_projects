@@ -1,6 +1,6 @@
 # FoML Projects
 
-Semester project for Fundamentals of Machine Learning (Jan Platoš) at VŠB-TUO, winter 2026/27.
+Semester projects for Fundamentals of Machine Learning (Jan Platoš) at VŠB-TUO, winter 2026/27.
 Author: Demid Ostiakov (OST0059)
 
 | Part | Topic | Dataset | Notebook | Status |
