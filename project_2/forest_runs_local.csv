@@ -1,0 +1,7 @@
+Forest,Model,Rows per tree,Minimum leaf size,Maximum depth,Trees,"Recall at 5% FPR, month 3","Recall at 5% FPR, month 4","Recall at 5% FPR, month 5","Recall at 5% FPR, mean","ROC-AUC, mean",Computed on
+"Random forest, 100% rows per tree, leaf at least 50, no depth limit, 100 trees",Random forest,1.0,50,none,100,0.5532,0.5358,0.5152,0.5347,0.8938,local machine
+"Random forest, 25% rows per tree, leaf at least 25, no depth limit, 100 trees",Random forest,0.25,25,none,100,0.5503,0.5227,0.5124,0.5285,0.8883,local machine
+"Random forest, 50% rows per tree, leaf at least 25, no depth limit, 50 trees",Random forest,0.5,25,none,50,0.5445,0.5289,0.5053,0.5263,0.8871,local machine
+"Extra trees, 50% rows per tree, leaf at least 25, no depth limit, 100 trees",Extra trees,0.5,25,none,100,0.5323,0.5138,0.5096,0.5186,0.8901,local machine
+"Random forest, 50% rows per tree, leaf at least 1, depth at most 10, 100 trees",Random forest,0.5,1,10,100,0.5237,0.5158,0.4918,0.5105,0.8855,local machine
+"Random forest, 50% rows per tree, leaf at least 1, no depth limit, 100 trees",Random forest,0.5,1,none,100,0.4935,0.4738,0.4458,0.471,0.8472,local machine
