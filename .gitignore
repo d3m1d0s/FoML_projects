@@ -8,6 +8,9 @@ project_1/*.zip
 # Class sign-up sheet (contains other students' names and logins)
 Projekty_Cviko_16_00.csv
 
+# Saved results of slow notebook cells when run outside Colab (in Colab they go to Google Drive)
+cache/
+
 # Jupyter / Python
 .ipynb_checkpoints/
 __pycache__/
